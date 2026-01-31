@@ -1,0 +1,20 @@
+# WordPress Theme Screenshot
+
+To add a screenshot for your theme:
+
+1. Take a screenshot of your theme's homepage (1200px x 900px recommended)
+2. Save it as `screenshot.png` in the theme root folder
+3. The screenshot will appear in WordPress Admin → Appearance → Themes
+
+For now, you can use a placeholder or create a simple graphic showing your theme name.
+
+## Recommended Screenshot Size
+- Width: 1200px
+- Height: 900px
+- Format: PNG or JPG
+- File name: screenshot.png
+
+## How to Create
+- Use your favorite graphics software (Photoshop, Canva, etc.)
+- Or take a screenshot of your live site
+- Place in: glochar-theme/screenshot.png
