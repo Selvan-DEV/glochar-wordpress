@@ -1,0 +1,57 @@
+# WordPress Core Files
+/wp-admin/
+/wp-includes/
+/wp-content/index.php
+/wp-content/plugins/
+/wp-content/uploads/
+
+# Default WordPress Themes (exclude if not customizing)
+/wp-content/themes/twentytwenty*/
+/wp-content/themes/index.php
+
+# WordPress Core Files
+*.php
+!wp-content/themes/visplay-theme/**/*.php
+.htaccess
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config-sample.php
+wp-config.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+license.txt
+readme.html
+index.php
+
+# Environment Files
+.env
+.env.local
+
+# Database
+*.sql
+*.sql.gz
+
+# Logs
+*.log
+error_log
+debug.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
