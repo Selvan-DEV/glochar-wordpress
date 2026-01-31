@@ -65,9 +65,17 @@ See [bluehost-deployment-guide.md](bluehost-deployment-guide.md) for detailed in
 ### 1. Configure Menus
 
 - Go to Appearance → Menus
-- Create "Primary Menu" and "Footer Menu"
-- Add your pages
-- Assign to appropriate locations
+- Create "Primary Menu" with these items:
+  - Systems
+  - Solutions
+  - Projects
+  - Stories
+  - About us
+  - Contact
+  - Downloads
+- Create "Footer Menu" (optional)
+- Assign "Primary Menu" to the Primary Menu location
+- Save the menu
 
 ### 2. Set Front Page
 
